@@ -1,3 +1,4 @@
+name: okteto-vnc
 services:
     ubuntu:
         public: true
